@@ -1,4 +1,4 @@
-const base='http://localhost:5000'
+const base='http://192.168.43.123:5000'
 const api_products = '/api/products'
 const apb = base+api_products
 export const api_products_urls ={

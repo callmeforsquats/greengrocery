@@ -2,4 +2,5 @@
 .env
 media/**
 .vscode
-**/.env
+**\.env
+venv/**
